@@ -17,7 +17,6 @@ Game Camera:
 
 <img width="886" alt="Screenshot 2025-04-04 at 18 03 45" src="https://github.com/user-attachments/assets/426138f3-90ee-4547-a128-6e564cbded16" />
 
-:)
 
 <img width="660" alt="Screenshot 2025-04-04 at 18 34 54" src="https://github.com/user-attachments/assets/83c43136-aa56-4455-a62d-e7c19f79f000" />
 
